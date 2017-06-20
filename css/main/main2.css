@@ -24786,12 +24786,6 @@ footer h5 { margin: 0; }
 
 }
 
-.ourteam-banner {
-
-	 background-image: url("http://onefinemeal.in/wp-content/uploads/2015/12/Team-Header.jpg");
-
-}
-
 .contact-banner {
 
 	 background-image: url("images/contact-banner.jpg");
@@ -27604,7 +27598,7 @@ div.wpcf7-mail-sent-ok {
 
 .news-letter .wpcf7-submit {
 
-	background:url('http://onefinemeal.in/wp-content/uploads/2015/10/button.jpg') no-repeat;
+	background:url('../../images/button.jpg') no-repeat;
 
     border: none;
 
