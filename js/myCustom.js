@@ -1296,6 +1296,12 @@ $(document).ready(function(){
 
 				}, { offset: '-40%' });
 
+				$('.food-solutions').waypoint(function() {
+
+					setTimeout(function(){$('.food-menus:nth-of-type(4)').addClass('animated fadeInLeft')},100);
+
+				}, { offset: '100%' });
+
 
 
 				$('.everyday-events').waypoint(function() {
