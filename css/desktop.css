@@ -2,7 +2,7 @@
 @media only screen and (min-width: 992px) {
 
 	.header-type1 ul.navbar-nav a { color: #969696; }
-	/*.header-type1 ul.navbar-nav li { border-bottom: 2px solid #222; }*/
+	
 	#navigation-list .navbar-nav ul {
 	  top: 105%;
 	  left: 0%;
@@ -30,7 +30,6 @@
 	  left: 0;
 	}
 header ul.navbar-nav li.current-menu-item a {
-	  border-bottom:1px solid #f88005;
    }
 	.timing-details .timing-group {
     float: left;
